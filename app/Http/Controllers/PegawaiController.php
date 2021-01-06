@@ -8,6 +8,8 @@ use Illuminate\Support\Facades\DB;
 
 class PegawaiController extends Controller
 {
+
+    //Julian
     public function index()
     {
     	// mengambil data dari table pegawai
