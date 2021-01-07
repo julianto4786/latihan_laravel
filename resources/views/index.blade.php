@@ -1,6 +1,6 @@
 <html>
 <head>
-	<title>Tutorial Membuat CRUD Pada Laravel </title>
+	<title>TUTORIAL CRUD LARAVEL</title>
 </head>
 <body>
 
